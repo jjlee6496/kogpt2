@@ -1,0 +1,15 @@
+# Huggingface
+transformers
+sentence-transformers
+datasets
+
+# Train
+accelerate>=0.26.0
+
+# Evaluate
+evaluate
+nltk
+
+# etc
+gradio
+psutil

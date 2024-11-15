@@ -1,0 +1,7 @@
+data
+results
+kogpt2-50epochs
+logs
+models
+.gradio
+chat_main.py
