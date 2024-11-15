@@ -1,7 +1,8 @@
 # kogpt2
 - [학습 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71748)
 - 한국어 말뭉치 데이터 310만 건(20억 어절) Reinforcement Learning Human Feedback(RLHF) 데이터 7만 7천 건으로 구성
-
+- train/SFTlabel.json만 사용
+- 사용모델: [KoGPT2](https://github.com/SKT-AI/KoGPT2
 
 # 실행 방법
 - cuda 버전에 맞는 torch 설치 
